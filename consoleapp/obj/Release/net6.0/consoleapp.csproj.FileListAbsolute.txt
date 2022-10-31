@@ -1,0 +1,15 @@
+C:\Platzi\consoleapp\bin\release\net6.0\consoleapp.exe
+C:\Platzi\consoleapp\bin\release\net6.0\consoleapp.deps.json
+C:\Platzi\consoleapp\bin\release\net6.0\consoleapp.runtimeconfig.json
+C:\Platzi\consoleapp\bin\release\net6.0\consoleapp.dll
+C:\Platzi\consoleapp\bin\release\net6.0\consoleapp.pdb
+C:\Platzi\consoleapp\obj\release\net6.0\consoleapp.csproj.AssemblyReference.cache
+C:\Platzi\consoleapp\obj\release\net6.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Platzi\consoleapp\obj\release\net6.0\consoleapp.AssemblyInfoInputs.cache
+C:\Platzi\consoleapp\obj\release\net6.0\consoleapp.AssemblyInfo.cs
+C:\Platzi\consoleapp\obj\release\net6.0\consoleapp.csproj.CoreCompileInputs.cache
+C:\Platzi\consoleapp\obj\release\net6.0\consoleapp.dll
+C:\Platzi\consoleapp\obj\release\net6.0\refint\consoleapp.dll
+C:\Platzi\consoleapp\obj\release\net6.0\consoleapp.pdb
+C:\Platzi\consoleapp\obj\release\net6.0\consoleapp.genruntimeconfig.cache
+C:\Platzi\consoleapp\obj\release\net6.0\ref\consoleapp.dll

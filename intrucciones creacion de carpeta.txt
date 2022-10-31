@@ -1,0 +1,6 @@
+cmd
+entramos en la carpeta donde queremos crear el proyecto 
+damos el comando mkdir "nombre de la carpeta"
+damos el comando dotnet new web o webapi
+"para esto debemos tener ya instalado en el computado .net core"
+desde la terminal ejecutamos la carpeta con el comando code .

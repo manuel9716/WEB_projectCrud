@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "Registro";
+}
+@model SimpleLogin.Models.ViewModel.UsuarioVM
+<h1>Iniciar Sesión</h1>
+
+<form asp-action="Login" asp-controller="Login" id="Login">
+    <div class="row">
+        <div class="form-group col-md-3">
+            <label>Usuario</label>
+            <input type="text" asp-for="Nombre" class="form-control" />
+            <span asp-validation-for="Nombre"></span>
+        </div>
+    </div>
+    <div class="row">
+        <div class="form-group col-md-3">
+            <label>Contraseña</label>
+            <input type="password" asp-for="Clave" class="form-control" />
+            <span asp-validation-for="Clave"></span>
+        </div>
+    </div>
+    <div class="row">
+        <button type="submit" class="btn btn-primary">REGISTRAR</button>
+    </div>
+</form>
